@@ -1,10 +1,10 @@
-# Rener Lemes 🤓
+# Rener Lemes
 
-## Hi there 👋! Welcome to my profile!
+## Olá, bem vindo ao meu perfil!
 
-Here something about me:
+Algumas coisas sobre mim:
 
-- 🔭 I’m currently working on [XP Inc.](https://www.xpinc.com/)
+- 🔭 Atualmente na [UOLEdTech](https://www.xpinc.com/)
 - 🌱 I’m currently learning .NET performance
 - 👯 I’m looking to collaborate on with my C# knowledges
 
