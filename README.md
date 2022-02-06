@@ -4,15 +4,10 @@
 
 Algumas coisas sobre mim:
 
-- 🔭 Atualmente trabalhando na [UOL EdTech](http://uoledtech.com.br)
-- 🌱 Atualmente estudando arquitetura e performance .NET
-- 👯 Estou procurando colaborar com meus conhecimentos de C#
-
-E sou também um desenvolvedor full-stack:
- - 💜 Apaixonado em C#, sempre
- - 😁 Currently specializing in C# performance
- - ❤️ Apaixonado por Javascript/Typescript também
- - 🚀 Engenheiro de Software Sênior
+- 🔭 Atualmente trabalhando como Engenheiro de Software Sênior na [UOL EdTech](http://uoledtech.com.br)
+- 🌱 Atualmente estudando arquitetura e performance em .NET
+- 👯 Sempre colaborando com meus conhecimentos de C#
+- ❤️ Apaixonado por Javascript/Typescript também
 
 ##
 
