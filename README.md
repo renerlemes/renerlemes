@@ -4,21 +4,20 @@
 
 Algumas coisas sobre mim:
 
-- 🔭 Atualmente na [UOLEdTech](https://www.xpinc.com/)
-- 🌱 I’m currently learning .NET performance
-- 👯 I’m looking to collaborate on with my C# knowledges
+- 🔭 Atualmente trabalhando na [UOL EdTech](http://uoledtech.com.br)
+- 🌱 Atualmente estudando arquitetura e performance .NET
+- 👯 Estou procurando colaborar com meus conhecimentos de C#
 
-And I'm full-stack developer:
- - 💜 In love with C#, always
+E sou também um desenvolvedor full-stack:
+ - 💜 Apaixonado em C#, sempre
  - 😁 Currently specializing in C# performance
- - ❤️ I'm love Javascript/Typescript too
- - 🚀 Senior Software Engineer of XP Inc!
+ - ❤️ Apaixonado por Javascript/Typescript também
+ - 🚀 Engenheiro de Software Sênior
 
 ##
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=renerlemes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renerlemes&layout=compact&langs_count=7&theme=dark&hide=php,java,arduino"/>
 </div>
 
   <div style="display: inline_block" align="center"><br>
@@ -39,8 +38,6 @@ And I'm full-stack developer:
 </div>
 
 
-#### Follow me on my social networks:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/alexalvess)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/alexalvess/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@alexalvess)](https://medium.com/@alexalvess)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alex.as25/)](https://www.instagram.com/alex.as25/)
+#### Me siga nas redes sociais:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renerlemes)](https://github.com/renerlemes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renerlemes/)](https://www.linkedin.com/in/renerlemes)
