@@ -4,7 +4,7 @@
 
 Algumas coisas sobre mim:
 
-- 🔭 Atualmente trabalhando como Desenvolvedor Backend Sênior na [Alpargatas](http://alpargatas.com.br)
+- 🔭 Atualmente trabalhando como freelancer
 - 🌱 Atualmente estudando um pouco de Infra, DevOps e Arquitetura em .NET
 - 👯 Sempre colaborando com meus conhecimentos de C#
   - [WPPConnect](https://github.com/wppconnect-team/wppconnect-csharp)
