@@ -12,9 +12,10 @@ Algumas coisas sobre mim:
 - ❤️ Apaixonado por Javascript/Typescript também
 
 ##
-
+https://github-readme-stats.vercel.app/api?username=renerlemes&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=renerlemes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=renerlemes&show_icons=true&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renerlemes&show_icons=true"/>
 </div>
 
   <div style="display: inline_block" align="center"><br>
