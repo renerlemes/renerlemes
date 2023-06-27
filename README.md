@@ -4,8 +4,8 @@
 
 Algumas coisas sobre mim:
 
-- 🔭 Atualmente trabalhando como freelancer
-- 🌱 Atualmente estudando um pouco de Infra, DevOps e Arquitetura em .NET
+- 🔭 Atualmente trabalhando na Thomson Reuters como Desenvolvedor Backend
+- 🌱 Atualmente estudando um pouco de Infra, DevOps e React
 - 👯 Sempre colaborando com meus conhecimentos de C#
   - [WPPConnect](https://github.com/wppconnect-team/wppconnect-csharp)
   - [Heroku DevOps Extension](https://marketplace.visualstudio.com/items?itemName=RenerLemes.netplus-vsextension-heroku)
