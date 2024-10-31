@@ -9,7 +9,6 @@ Algumas coisas sobre mim:
 - 👯 Sempre colaborando com meus conhecimentos de C#
   - [WPPConnect](https://github.com/wppconnect-team/wppconnect-csharp)
   - [Heroku DevOps Extension](https://marketplace.visualstudio.com/items?itemName=RenerLemes.netplus-vsextension-heroku)
-- ❤️ Apaixonado por Javascript/Typescript
 
 ##
 https://github-readme-stats.vercel.app/api?username=renerlemes&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
